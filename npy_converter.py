@@ -15,7 +15,7 @@ from sklearn.model_selection import train_test_split
 
 
 
-genislik, yukseklik = 384, 512
+genislik, yukseklik = 9999999999999,99999999999999
 kanal_sayisi = 3 # 1: Grayscale, 3: RGB
 etiket_sayisi = 6 # sınıf sayısı
 test_verisi_orani = 0.2 # %20 test
